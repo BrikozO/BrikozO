@@ -1,6 +1,6 @@
-### Hi there 👋
+### Oleg Yakushev 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+backend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6CF792&width=435&lines=Junior+backend-develpoer+from+Russia)](https://git.io/typing-svg)
 <!--
 **BrikozO/BrikozO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
