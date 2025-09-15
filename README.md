@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Oleg Yakushev
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Oleg Yakushev | Backend Engineer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Developer+from+Russia;Python+%26+Microservices+Enthusiast;3%2B+Years+of+Experience;Programming+is+an+art" alt="Typing SVG" />
@@ -13,6 +13,50 @@
 </div>
 
 ---
+
+🚀 About Me
+```go
+gopackage main
+
+import (
+    "fmt"
+    "time"
+)
+
+type BackendEngineer struct {
+    Name        string
+    Role        string
+    Location    string
+    Age         int
+    Experience  string
+    Languages   []string
+    Stack       map[string][]string
+    Learning    []string
+}
+
+func NewBackendEngineer() *BackendEngineer {
+    return &BackendEngineer{
+        Name:       "Oleg Yakushev",
+        Role:       "Backend Engineer",
+        Location:   "Earth, Solar System",
+        Age:        20,
+        Experience: "3+ years",
+        Languages:  []string{"Python", "Go", "C#"},
+        Stack: map[string][]string{
+            "frameworks":      {"FastAPI", "Django", "Flask"},
+            "databases":       {"PostgreSQL", "MongoDB", "ClickHouse"},
+            "message_brokers": {"RabbitMQ", "Apache Kafka"},
+            "devops":          {"Docker", "Nginx", "Linux", "Git"},
+        },
+        Learning: []string{"Go", "System Design", "High Load Systems"},
+    }
+}
+
+func main() {
+    me := NewBackendEngineer()
+    fmt.Printf("👋 Welcome to %s's profile!\n", me.Name)
+}
+```
 
 ## 🛠️ Tech Stack
 
