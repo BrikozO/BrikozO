@@ -142,7 +142,7 @@ graph TD
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-oleg.yakushev.work@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oleg.yakushev.work@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@brikozu-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brikoz)
+[![Telegram](https://img.shields.io/badge/Telegram-@brikoz-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brikoz)
 [![Phone](https://img.shields.io/badge/Phone-+7(985)743--12--73-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+79857431273)
 
 </div>
