@@ -16,7 +16,7 @@
 
 🚀 About Me
 ```go
-gopackage main
+package main
 
 import (
     "fmt"
