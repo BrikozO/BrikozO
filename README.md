@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Oleg Yakushev | Backend Engineer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Developer+from+Russia;Python+%26+Microservices+Enthusiast;3%2B+Years+of+Experience;Programming+is+an+art" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Developer+from+Russia;Python+%26+Microservices+Enthusiast;2%2B+Years+of+Experience;Programming+is+an+art" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -40,7 +40,7 @@ func NewBackendEngineer() *BackendEngineer {
         Role:       "Backend Engineer",
         Location:   "Earth, Solar System",
         Age:        20,
-        Experience: "3+ years",
+        Experience: "2+ years",
         Languages:  []string{"Python", "Go", "C#"},
         Stack: map[string][]string{
             "frameworks":      {"FastAPI", "Django", "Flask"},
