@@ -91,14 +91,14 @@ func main() {
 ## 💼 Professional Experience
 
 ### 🏢 СМК-РК | Python Developer
-**📅 Sep 2024 - Present**
+**📅 Sep 2024 - Nov 2025 (1 years 2 months)**
 - 🚀 Designing and developing new microservices architecture
 - 🔧 Maintaining and refactoring legacy systems
 - 👨‍💻 Conducting thorough code reviews
 - 📈 Mentoring and training junior team members
 
 ### 🏢 Finservlab | Backend Developer
-**📅 Aug 2022 - Sep 2024 (2 years 2 months)**
+**📅 Aug 2023 - Sep 2024 (1 years 2 months)**
 - 🆕 Built a new service from scratch using Python
 - 💻 Developed features for large-scale C# projects
 - 🏗️ Contributed to microservices architecture design
