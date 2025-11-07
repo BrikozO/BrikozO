@@ -91,7 +91,7 @@ func main() {
 ## 💼 Professional Experience
 
 ### 🏢 СМК-РК | Python Developer
-**📅 Sep 2024 - Nov 2025 (1 years 2 months)**
+**📅 Sep 2024 - Nov 2025 (1 years 3 months)**
 - 🚀 Designing and developing new microservices architecture
 - 🔧 Maintaining and refactoring legacy systems
 - 👨‍💻 Conducting thorough code reviews
